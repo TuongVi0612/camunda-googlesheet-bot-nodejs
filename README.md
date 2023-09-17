@@ -5,7 +5,9 @@ The bot automatically transfers data from Camunda Form to Google Sheets.
 ![Alt text](Invoice.png)
 #### 2. Lập Camunda Form
 ![Alt text](image-1.png)
+
 ![Alt text](image-2.png)
+
 ![Alt text](image-3.png)
 ### Chạy đoạn code kết nối Google Sheet và Camunda Form
 ### Nhập thông tin trên Camunda Platform 
