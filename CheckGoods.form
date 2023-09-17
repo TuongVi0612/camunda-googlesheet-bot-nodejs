@@ -1,0 +1,29 @@
+{
+  "components": [
+    {
+      "values": [
+        {
+          "label": "Thông tin hợp lệ",
+          "value": "true"
+        },
+        {
+          "label": "Thông tin không hợp lệ",
+          "value": "false"
+        }
+      ],
+      "label": "Kiểm tra tồn kho",
+      "type": "radio",
+      "id": "Field_12ca3ic",
+      "key": "checkgoods"
+    }
+  ],
+  "type": "default",
+  "id": "Form_0dn3obp",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.9.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.18.0",
+  "schemaVersion": 7
+}

@@ -1,0 +1,29 @@
+{
+  "components": [
+    {
+      "values": [
+        {
+          "label": "Hợp lệ ",
+          "value": "true"
+        },
+        {
+          "label": "Không hợp lệ",
+          "value": "false"
+        }
+      ],
+      "label": "Kiểm tra thông tin hóa đơn",
+      "type": "radio",
+      "id": "Field_00rmhsk",
+      "key": "check"
+    }
+  ],
+  "type": "default",
+  "id": "Form_0uzfcls",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.9.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.18.0",
+  "schemaVersion": 7
+}

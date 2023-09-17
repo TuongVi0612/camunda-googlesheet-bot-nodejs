@@ -1,0 +1,43 @@
+{
+  "components": [
+    {
+      "label": "Ngày nhập hàng:",
+      "type": "textfield",
+      "id": "Field_19ld19f",
+      "key": "date"
+    },
+    {
+      "label": "Chi nhánh:",
+      "type": "textfield",
+      "id": "Field_1xvfin2",
+      "key": "place"
+    },
+    {
+      "label": "Tên mặt hàng:",
+      "type": "textfield",
+      "id": "Field_1efp297",
+      "key": "name"
+    },
+    {
+      "label": "Số lượng nhập:",
+      "type": "number",
+      "id": "Field_1o0qvc2",
+      "key": "quantity"
+    },
+    {
+      "label": "Thành tiền:",
+      "type": "textfield",
+      "id": "Field_1a1pzn3",
+      "key": "total"
+    }
+  ],
+  "type": "default",
+  "id": "Form_0ezy1hb",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.9.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.18.0",
+  "schemaVersion": 7
+}
